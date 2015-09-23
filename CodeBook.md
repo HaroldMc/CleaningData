@@ -1,8 +1,10 @@
 # Code Book for run_analysis.R
 
 The data file used for this project was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The data variables and how the data was obtained, as well as other details about the project, can be found at:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## Variables as initially created
+## Variables as initially created by the script
 * mergedFeatures - result of merging X_train.txt and X_test.txt
 * mergedActivity - result of merging Y_train.txt and Y_test.txt
 * mergedSubject - result of merging subject_train.txt and subject_test.txt
