@@ -39,4 +39,4 @@ The data file used for this project was downloaded from https://d396qusza40orc.c
 * Substitute activity labels for the activity numbers
 * Expand abbreviations to more human friendly terms
 
-### Create a tidy data set with the averages. 
+### Create a tidy data set with the means. 
